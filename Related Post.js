@@ -17,10 +17,6 @@ function relatedPostsWidget(userOp){
 			,'containerSelector':''
 			,'tags':null
 			,'loadingText':''
-			,'loadingClass':''
-			,'relevantTip':''
-			,'relatedTitle':'Artikel Terkait'
-			,'recentTitle':'Artikel Terkait'
 			,'postScoreClass':''
 			,'onLoad':false
 		};
