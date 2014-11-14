@@ -19,8 +19,8 @@ function relatedPostsWidget(userOp){
 			,'loadingText':''
 			,'loadingClass':''
 			,'relevantTip':''
-			,'relatedTitle':'Artikel Terkait'
-			,'recentTitle':'Artikel Terkait'
+			,'relatedTitle':'Artikel Lainnya'
+			,'recentTitle':'Artikel Lainnya'
 			,'postScoreClass':''
 			,'onLoad':false
 		};
