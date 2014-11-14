@@ -14,7 +14,6 @@ function relatedPostsWidget(userOp){
 			,'maxPosts':5
 			,'maxTags':5
 			,'maxPostsPerTag':5
-			,'containerSelector':''
 			,'tags':null
 			,'loadingText':''
 			,'loadingClass':''
