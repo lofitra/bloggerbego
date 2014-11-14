@@ -10,7 +10,7 @@
 function relatedPostsWidget(userOp){
 	(function($){ 
 		var op = {
-       'blogURL':''
+        'blogURL':''
 			,'maxPosts':5
 			,'maxTags':5
 			,'maxPostsPerTag':5
