@@ -10,7 +10,8 @@
 function relatedPostsWidget(userOp){
 	(function($){ 
 		var op = {
-			'blogURL':''
+		  artikel Lainnya
+        'blogURL':''
 			,'maxPosts':5
 			,'maxTags':5
 			,'maxPostsPerTag':5
