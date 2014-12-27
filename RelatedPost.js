@@ -4,3 +4,4 @@ relatedTitles=tmp2;relatedUrls=tmp;}
 function contains(a,e){for(var j=0;j<a.length;j++)if(a[j]==e)return true;return false;}
 function printRelatedLabels(){var r=Math.floor((relatedTitles.length- 1)*Math.random());var i=0;document.write('<ul>');while(i<relatedTitles.length&&i<20){document.write('<li><a href="'+ relatedUrls[r]+'">'+ relatedTitles[r]+'</a></li>');if(r<relatedTitles.length- 1){r++;}else{r=0;}
 i++;}
+document.write('</ul>');}
